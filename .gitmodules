@@ -5,3 +5,6 @@
 [submodule "ciTools"]
 	path = ciTools
 	url = https://github.com/jthaman/citools
+[submodule "energyGOF"]
+	path = energyGOF
+	url = https://github.com/jthaman/energygof
